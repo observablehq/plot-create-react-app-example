@@ -1,7 +1,7 @@
 {
-  "name": "plot-create-react-app-example",
+  "name": "@observablehq/plot-create-react-app-example",
   "version": "0.1.0",
-  "private": true,
+  "license": "ISC",
   "dependencies": {
     "@observablehq/plot": "^0.3.2",
     "@testing-library/jest-dom": "^5.14.1",
